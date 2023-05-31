@@ -1,0 +1,52 @@
+
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin: 20px;
+}
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: orange;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(235, 18, 18);
+    line-height: 3;
+    text-align: center;
+ }
+#contact iframe
+{
+    width: 100%;
+}
+
+
+
